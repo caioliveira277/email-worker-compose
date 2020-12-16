@@ -60,5 +60,5 @@ services:
       - fila
     depends_on:
       - queue
-    enviroment:
+    environment:
       - DB_NAME=email_sender
