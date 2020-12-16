@@ -1,0 +1,5 @@
+version: '3'
+services:
+  app:
+    enviroment:
+      - DB_NAME=email_sender
