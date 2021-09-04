@@ -42,11 +42,14 @@ Os scripts abaixo executam a compilação do projeto.
 ***Curso Cod3er:***<br>
 [<ins>Docker: Ferramenta essencial para Desenvolvedores</ins>](https://www.cod3r.com.br/courses/docker)
 
-***Documentação Redis:***<br>
-[<ins>Redis docs</ins>](https://redis.io/)
-
-***Documentação Python:***<br>
-[<ins>Python docs</ins>](https://www.python.org/)
+***Imagens utilizadas:***<br>
+[<ins>Redis image</ins>](https://hub.docker.com/_/redis) 
+<br>
+[<ins>Python image</ins>](https://hub.docker.com/_/python) 
+<br>
+[<ins>Nignx image</ins>](https://hub.docker.com/_/nginx)
+<br>
+[<ins>Postgres image</ins>](https://hub.docker.com/_/postgres)
 
 ---
 ## Licença
